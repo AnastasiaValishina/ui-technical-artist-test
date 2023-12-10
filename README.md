@@ -7,4 +7,5 @@
 - C#-файлы, с которыми в дальнейшем будет работать программист.
 - сопроводительное письмо. 
 ## Результат
-![Popup](https://github.com/AnastasiaValishina/ui-technical-artist-test/assets/76991179/a36f1e0f-a0d1-404b-9a69-fa3465fdf651)
+![Popup](https://github.com/AnastasiaValishina/ui-technical-artist-test/assets/76991179/7a4b4669-4483-4a38-acfc-50bea2a845b8)
+
